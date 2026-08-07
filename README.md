@@ -19,7 +19,7 @@ When I'm not coding, you'll probably find me crocheting something new or spendin
 ## 🛠 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,dotnet,python,flask,php,mysql,postgres,firebase,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,flask,mysql,postgres,firebase,docker,git,github,vscode" />
 </p>
 
 <p align="left">
