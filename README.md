@@ -6,7 +6,7 @@ I'm passionate about building software that is not only functional but also enjo
 
 ---
 
-## 💻 What I'm Currently Working On
+## 💻 Currently Working On
 
 * 🌐 Web applications with **React**
 * 🧪 Exploring **Software Quality Assurance (SQA)** and testing practices
@@ -42,7 +42,7 @@ I'm passionate about building software that is not only functional but also enjo
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 <div align="center">
   <a href="mailto:jarifatasnim13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
