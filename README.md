@@ -16,41 +16,15 @@ When I'm not coding, you'll probably find me crocheting something new or spendin
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies & Tools
 
-### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,dotnet,python,flask,php,mysql,postgres,firebase,docker,git,github,vscode&perline=9" />
+</p>
 
-* Python
-* JavaScript
-* C++
-* SQL
-
-### Frontend
-
-* React
-* HTML
-* CSS
-* Tailwind CSS
-
-### Backend
-
-* Flask
-
-### Databases
-
-* PostgreSQL
-* Firebase
-* SQLite
-
-### Tools
-
-* Git & GitHub
-* Docker
-* Postman
-* Power BI
-* VS Code
-* Figma
----
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,powerbi" />
+</p>
 
 
 ## 🌱 Currently Learning
