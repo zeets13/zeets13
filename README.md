@@ -46,14 +46,20 @@ When I'm not coding, you'll probably find me crocheting something new or spendin
 
 ## 📫 Let's Connect
 
-📧 **Email:** [jarifatasnim13@gmail.com](mailto:jarifatasnim13@gmail.com)
-
-💼 **LinkedIn:** [www.linkedin.com/in/jarifa-tasnim](http://www.linkedin.com/in/jarifa-tasnim)
-
-🌐 **Portfolio:** https://personal-portfolio-jarifa.vercel.app/
-
-🐙 **GitHub:** github.com/zeets13
-
+<div align="center">
+  <a href="chijiokeokorji@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://medium.com/@chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://codepen.io/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+  </a>
+</div>
 ---
 
 > *I like building things that work well, look great, and make someone's day a little easier. Always learning, always improving.*
