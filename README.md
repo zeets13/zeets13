@@ -2,9 +2,9 @@
 
 🎓 Computer Science & Engineering student at **Jagannath University, Bangladesh**
 
-I'm passionate about building software that is not only functional but also enjoyable to use. Whether it's developing web applications or testing software for quality, I enjoy solving problems and learning new technologies along the way.
+I'm passionate about building software that is not only functional but also enjoyable to use. From developing web applications to finding bugs in application, I enjoy solving problems and learning new technologies along the way.
 
-When I'm not coding, you'll probably find me crocheting something new or spending time with my cat 🐈
+When I'm not coding, you'll probably find me crocheting something new or spending time with my cat 🐈.
 
 ---
 
@@ -52,22 +52,6 @@ When I'm not coding, you'll probably find me crocheting something new or spendin
 * Figma
 ---
 
-## 📌 Featured Projects
-
-### 🗳 CloudVote
-
-A cloud-based online voting platform built with React and ASP.NET, containerized using Docker with CI/CD integration.
-
-### 🚩 Flaggr
-
-A harmful speech detection chatbot powered by DistilBERT, Flask and React that performs real-time text moderation.
-
-
-### 🏠 HomeScope
-
-A full-stack real estate platform where users can buy, sell, rent, and explore property listings.
-
----
 
 ## 🌱 Currently Learning
 
