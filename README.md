@@ -45,14 +45,16 @@ When I'm not coding, you'll probably find me crocheting something new or spendin
 ---
 
 ## 📫 Let's Connect
-
 <div align="center">
-  <a href="jarifatasnim13@gmail.com">
+  <a href="mailto:jarifatasnim13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://linkedin.com/in/jarifa-tasnim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[https://your-portfolio-link.vercel.app"](https://personal-portfolio-jarifa.vercel.app/) target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
-
 > *I like building things that work well, look great, and make someone's day a little easier. Always learning, always improving.*
