@@ -20,11 +20,11 @@ When I'm not coding, you'll probably find me crocheting something new or spendin
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,flask,mysql,postgres,firebase,docker,git,vscode" />
-</p>
-
-<p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,powerbi" />
 </p>
+
+
+
 
 
 ## 🌱 Currently Learning
