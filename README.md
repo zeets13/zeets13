@@ -4,6 +4,7 @@
 
 I'm passionate about building software that is not only functional but also enjoyable to use. From developing web applications to finding bugs in application, I enjoy solving problems and learning new technologies along the way.
 
+---
 
 ## 💻 What I'm Currently Working On
 
