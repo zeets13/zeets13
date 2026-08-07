@@ -38,8 +38,8 @@ When I'm not coding, you'll probably find me crocheting something new or spendin
 ## 🏆 Achievements
 
 * 🥇 Winner — IEEE WIE Day Idea Pitch (2024)
-* 🏅 Finalist — Techathon Nationals & Rover Summit (2026)
-* 🏅 Finalist — Sciblitz 2.0 Three Minute Thesis Competition (2026)
+* 🏅 Finalist — Case Competition, Techathon Nationals & Rover Summit (2026)
+* 🏅 Finalist — Three Minute Thesis Competition, Sciblitz 2.0 (2026)
 
 ---
 
