@@ -1,8 +1,6 @@
 # Hi there, I'm Jarifa 👋
 
-🎓 Computer Science & Engineering student at **Jagannath University, Bangladesh**
-
-I'm passionate about building software that is not only functional but also enjoyable to use. From developing web applications to finding bugs in application, I enjoy solving problems and learning new technologies along the way.
+Passionate about building software that is not only functional but also enjoyable to use. From developing web applications to finding bugs in application, I enjoy solving problems and learning new technologies along the way.
 
 ---
 
@@ -21,16 +19,6 @@ I'm passionate about building software that is not only functional but also enjo
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,powerbi" />
 </p>
 <hr>
-
-
-
-
-
-## 🌱 Currently Learning
-
-* Software Testing & QA
-* Cloud Computing
-* System Design
 
 ---
 
@@ -55,4 +43,4 @@ I'm passionate about building software that is not only functional but also enjo
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
-> *I like building things that work well, look great, and make someone's day a little easier. Always learning, always improving.*
+
